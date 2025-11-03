@@ -7,12 +7,12 @@ Ele identifica o **sentimento geral (positivo, negativo ou neutro)**, detecta **
 
 ## Funcionalidades
 
-- 🗣️ Análise de sentimento em português usando modelo **BERTweet PT-BR**  
-- 🔍 Detecção de **aspectos** via dependência sintática e regras por vocabulário  
-- 🧩 Reconhecimento de entidades nomeadas (NER)  
-- 📊 Suporte a entrada `.txt` ou `.csv`  
-- 💾 Gera saída estruturada em `.json` com todos os resultados  
-- ⚙️ Pipeline totalmente offline após primeiro download do modelo
+-  Análise de sentimento em português usando modelo **BERTweet PT-BR**  
+- Detecção de **aspectos** via dependência sintática e regras por vocabulário  
+-  Reconhecimento de entidades nomeadas (NER)  
+-  Suporte a entrada `.txt` ou `.csv`  
+-  Gera saída estruturada em `.json` com todos os resultados  
+-  Pipeline totalmente offline após primeiro download do modelo
 
 ---
 
