@@ -16,7 +16,7 @@ Ele identifica o **sentimento geral (positivo, negativo ou neutro)**, detecta **
 
 ---
 
-## 🧰 Tecnologias
+## Tecnologias
 
 - [spaCy](https://spacy.io/)
 - [Transformers (Hugging Face)](https://huggingface.co/transformers/)
