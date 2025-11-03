@@ -1,0 +1,105 @@
+[
+  {
+    "texto": "Produto excelente, mas a bateria é fraca.",
+    "sentimento": {
+      "label": "NEG",
+      "score": 0.969
+    },
+    "entidades": [],
+    "aspectos": {
+      "por_dependencia": [],
+      "por_copula": [
+        {
+          "aspecto": "bateria",
+          "qualidade": "fraca",
+          "verbo_copula": "é"
+        }
+      ],
+      "por_regras": []
+    },
+    "sentencas": [
+      {
+        "texto": "Produto excelente, mas a bateria é fraca.",
+        "label": "NEG",
+        "score": 0.969
+      }
+    ]
+  },
+  {
+    "texto": "A câmera é ótima e o preço é justo.",
+    "sentimento": {
+      "label": "POS",
+      "score": 0.971
+    },
+    "entidades": [],
+    "aspectos": {
+      "por_dependencia": [],
+      "por_copula": [
+        {
+          "aspecto": "câmera",
+          "qualidade": "ótima",
+          "verbo_copula": "é"
+        },
+        {
+          "aspecto": "preço",
+          "qualidade": "justo",
+          "verbo_copula": "é"
+        }
+      ],
+      "por_regras": []
+    },
+    "sentencas": [
+      {
+        "texto": "A câmera é ótima e o preço é justo.",
+        "label": "POS",
+        "score": 0.971
+      }
+    ]
+  },
+  {
+    "texto": "O desempenho do celular é muito ruim.",
+    "sentimento": {
+      "label": "NEG",
+      "score": 0.984
+    },
+    "entidades": [],
+    "aspectos": {
+      "por_dependencia": [],
+      "por_copula": [
+        {
+          "aspecto": "desempenho",
+          "qualidade": "ruim",
+          "verbo_copula": "é"
+        }
+      ],
+      "por_regras": []
+    },
+    "sentencas": [
+      {
+        "texto": "O desempenho do celular é muito ruim.",
+        "label": "NEG",
+        "score": 0.984
+      }
+    ]
+  },
+  {
+    "texto": "A tela é linda, porém risca fácil.",
+    "sentimento": {
+      "label": "NEU",
+      "score": 0.853
+    },
+    "entidades": [],
+    "aspectos": {
+      "por_dependencia": [],
+      "por_copula": [],
+      "por_regras": []
+    },
+    "sentencas": [
+      {
+        "texto": "A tela é linda, porém risca fácil.",
+        "label": "NEU",
+        "score": 0.853
+      }
+    ]
+  }
+]
